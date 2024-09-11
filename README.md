@@ -18,6 +18,9 @@
 - **Frontend**: HTML, CSS, JavaScript
 - **Model**: Recurrent Neural Network (RNN)
 
+## Special Thanks
+Special thanks for Mr Sumit Aggarwal, interviewer at MorningStar. When I was interviewed at MorningStar before, he asked me how to improve my old RNN-stock-predictor project by download multiple datas at the large scale. I could not answer that question and he gave me his solution to use YahooAPI. 
+
 ## Changelog
 
 ### [1.0.0] - 2024-09-11
