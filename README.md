@@ -2,7 +2,9 @@
 
 ## Overview
 
-`Stock-Price-Predictor-Web-v1` is a web application designed to forecast stock prices using a Recurrent Neural Network (RNN) model. The application is built with Flask for the backend and uses HTML, CSS, and JavaScript for the frontend. It allows users to input parameters and receive stock price predictions based on historical data.
+`Stock-Price-Predictor-Web-v1` is a web application designed to forecast stock prices using a Recurrent Neural Network (RNN) model. The application is built with Flask for the backend and uses HTML, CSS, and JavaScript for the frontend. It allows users to input parameters and receive stock price predictions based on historical data. This project is built as an improvement of older project with improvement:
+1. Using Yahoo API to pull data instead of using CSV
+2. Allow user to choose stock company, time step and the duration of the stock that user want
 
 ## Features
 
@@ -16,10 +18,11 @@
 - **Frontend**: HTML, CSS, JavaScript
 - **Model**: Recurrent Neural Network (RNN)
 
-## Installation
+## Changelog
 
-1. **Clone the Repository**
+### [1.0.0] - 2024-09-11
+- Initial release of Stock-Price-Predictor-Web-v1
+- Implemented basic functionality for stock price prediction using RNN
+- Created a simple web interface for user input and display of results
 
-   ```bash
-   git clone https://github.com/yourusername/Stock-Price-Predictor-Web-v1.git
-   cd Stock-Price-Predictor-Web-v1
+---
