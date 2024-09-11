@@ -17,7 +17,8 @@
 - **Backend**: Flask (Python)
 - **Frontend**: HTML, CSS, JavaScript
 - **Model**: Recurrent Neural Network (RNN)
-
+- **AI libraries**: Numpy, Pandas, Scikit-learn, Pytorch, Keras
+- **API**: Yahoo! Finance
 ## Special Thanks
 Special thanks for Mr Sumit Aggarwal as my interviewer at MorningStar last year. When I was interviewed at MorningStar before, he asked me how to improve my old RNN-stock-predictor project by download multiple datas at the large scale. I could not answer that question and he gave me his solution to use YahooAPI. 
 
