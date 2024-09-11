@@ -6,6 +6,7 @@
 1. Using Yahoo API to pull data instead of using CSV
 2. Allow user to choose stock company, time step and the duration of the stock that user want
 
+The model achieved up to 95% in R^2 Score
 ## Features
 
 - **Stock Price Prediction**: Forecast future stock prices using an RNN model.
